@@ -16,11 +16,7 @@ elseif placeId == 2809202155 then
     print("\n game not support")
 end
 
-spawn(function()
-    while wait() do 
-        print("JayKung#8973 ")
-    end
-end)
+
 
 -- ✅ Fix cấu hình
 if BF then
