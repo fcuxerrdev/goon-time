@@ -3665,9 +3665,9 @@ function CheckItemBPCRBPCR(v463)
     end
 end
 local v466 = loadstring(game:HttpGet("https://raw.githubusercontent.com/NTTLOL/UIredzLibrary/refs/heads/main/RazUiV.txt"))():MakeWindow({
-    Title = "Raz Hub",
-    SubTitle = "by real_NTTLOL",
-    SaveFolder = "Raz | redz lib v5.lua"
+    Title = "goon",
+    SubTitle = "by gooner",
+    SaveFolder = "fuck goon"
 })
 local l_ScreenGui_0 = Instance.new("ScreenGui")
 l_ScreenGui_0.Name = "ControlGUI"
