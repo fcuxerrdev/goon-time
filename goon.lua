@@ -3755,10 +3755,10 @@ local v494 = v466:MakeTab({"PvP,Player", "user"})
 local v495 = v466:MakeTab({"Shop", "shoppingCart"})
 local v496 = v466:MakeTab({"Settings", "settings"})
 v484:AddDiscordInvite({
-    Name = "NTTLOL",
-    Description = "Link TIKTOK",
+    Name = "porn hub",
+    Description = "porn",
     Logo = "rbxassetid://112495182650520",
-    Invite = "https://www.tiktok.com/@nttlol_2k9?_r=1&_t=ZS-930QjdmEPa5"
+    Invite = "https://www.pornhub.com/"
 })
 local _ = v485:AddSection({"Select Melee,Sword,Gun,Fruit"})
 _G.SelectWeapon = "Melee"
