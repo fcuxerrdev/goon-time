@@ -3366,7 +3366,7 @@ _G.Color = Color3.fromRGB(0, 0, 255)
 _G.imageLogo = "rbxassetid://79932823311771"
 _G.Logo = "rbxassetid://79932823311771"
 _G.NameHub = "tiktok.com/@tirohub"
-_G.Title = "Tiro Hub"
+_G.Title = "nigga hub"
 -----------------------------------------------------------------
 
 local isUIEnabled = true 
